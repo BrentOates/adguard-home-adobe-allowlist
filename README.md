@@ -1,0 +1,1 @@
+# adguard-home-adobe-allowlist
